@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/fritzy/riakdown-increment/issues"
   },
-  "homepage": "https://github.com/fritzy/riakdown-increment"
+  "homepage": "https://github.com/fritzy/riakdown-increment",
+  "dependencies": {
+    "padlock": "^1.1.2"
+  }
 }
